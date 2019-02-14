@@ -757,7 +757,7 @@ http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1,内a江蘇卫视HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png“ group-title=“国内“,内a浙江卫视HD
+#EXTINF:-1,内a浙江卫视HD
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1,内北京卫视HD
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
