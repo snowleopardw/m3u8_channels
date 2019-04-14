@@ -103,8 +103,8 @@ http://223.110.241.203:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
 http://223.110.241.203:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 #EXTINF:-1 ,浙江卫视超清
 http://223.110.241.203:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
-#EXTINF:-1 ,====== 东方卫视超清-8M	http://223.110.241.203:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/ ======
-http://0/0.m3u8
+#EXTINF:-1 ,东方卫视超清-8M
+http://223.110.241.203:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
 #EXTINF:-1 ,江苏教育
 http://223.110.241.203:6610/gitv/live1/G_JSJY/G_JSJY/
 #EXTINF:-1 ,江苏城市
